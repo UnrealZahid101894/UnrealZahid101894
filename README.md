@@ -6,9 +6,9 @@
   {────────── 🎓 CSE Student @ East West University ──────────}
 </p>
 
---
- 
+<br>
 # 💫 About Me
+
 Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the web a cooler place, one line of code at a time.
 
 - 💻 Powered by **Fedora + Hyperland** (because who needs sleep anyway?)
