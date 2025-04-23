@@ -6,7 +6,7 @@
   {────────── 🎓 CSE Student @ East West University ──────────}
 </p>
 
-
+---
  
 # 💫 About Me
 Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the web a cooler place, one line of code at a time.
@@ -42,7 +42,7 @@ Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the we
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,cs,react,cpp,aws,gcp,azure,react,vue,flutter,arch,bash,git,github,docker,neovim,vscode,vscodium,powershell,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,cs,react,cpp,tailwind,php,nextjs,aws,gcp,azure,react,vue,flutter,notion,unreal,arch,bash,git,github,docker,neovim,vscode,vscodium,powershell,figma" />
   </a>
 </p>
 
