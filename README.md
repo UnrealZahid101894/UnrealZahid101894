@@ -7,9 +7,9 @@
 </p>
 
 
-# 💫 About Me
+# Me? Thanks for asking though...
 
-Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the web a cooler place, one line of code at a time.
+Hey there! I'm **UnrealZahid**, a full-stack developer(Currently unemployed) on a quest to make the web a cooler place, one line of code at a time.
 
 - 💻 Powered by **Fedora + Hyperland** (because who needs sleep anyway?)
 - 🚀 Freelancing my way through life and turning caffeine into code  
