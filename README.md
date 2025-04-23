@@ -1,4 +1,8 @@
 ## Hi there 👋
+https://raw.githubusercontent.com/UnrealZahid101894/UnrealZahid101894/output/dist/github-contribution-grid-snake.svg
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/UnrealZahid101894/UnrealZahid101894/output/dist/github-contribution-grid-snake.svg)
 
 <!--
 **UnrealZahid101894/UnrealZahid101894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
