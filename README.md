@@ -9,13 +9,11 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 <div style="text-align: center;">
   <img 
-    src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" 
+    src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif" 
     alt="Responsive GIF" 
     style="max-width: 100%; height: auto;"
   />
 </div>
-
-
 
 
 ###
