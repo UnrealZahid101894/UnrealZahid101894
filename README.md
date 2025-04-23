@@ -1,4 +1,12 @@
 # 💫 About Me
+<h1 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hi+I'm+Taskin+Billah+Tamim!;Frontend+Developer+%7C+CSE+Student+%7C+Tech+Lover;Always+learning+%F0%9F%92%AA+Always+building!+%F0%9F%9A%80" alt="Typing SVG" />
+ </h1>
+ 
+ <p align="center">
+    ---------- | 🎓 CSE Student @ East West University | ----------
+ </p>
+ 
 
 Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the web a cooler place, one line of code at a time.
 
