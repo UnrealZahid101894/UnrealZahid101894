@@ -7,19 +7,23 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 ###
 
+<div style="text-align: center;">
+  <img 
+    src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" 
+    alt="Responsive GIF" 
+    style="max-width: 100%; height: auto;"
+  />
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated" style="max-width: 100%; height: auto;" />
-</p>
 
 
 
 ###
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CGz7sYJU6/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/unreal_zahid?igsh=OWZ4d2YxbWtreWxh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidul-islam-672461333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30344386/jahidul-islam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Unreal_Zahid?t=9HQGlAPBUgetuTy32_4aSA&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislam01018940@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -68,7 +72,7 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 
 <!-- Stats Section -->
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <!-- Stats Section: 2x2 Grid Layout -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
@@ -95,7 +99,7 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 </div>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 <!-- Quote Section: Full width -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%;" />
