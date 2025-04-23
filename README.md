@@ -82,27 +82,13 @@ Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the we
 
 
 ## GitHub Stats:
-<!-- Stats & Languages Container -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 24px; width: 100%; margin: 0 auto; padding: 20px;">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-  <!-- ── Stats Card ── -->
-  <div style="background: #2c2f3a; border: 1px solid #44475a; border-radius: 12px; padding: 20px; width: 100%; max-width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px;">
-    <!-- Main GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="flex: 1; max-width: 48%; height: auto;" />
-    
-    <!-- Streak Stats -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" style="flex: 1; max-width: 48%; height: auto;" />
-  </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  <!-- ── Most Used Languages Card ── -->
-  <div style="background: #2c2f3a; border: 1px solid #44475a; border-radius: 12px; padding: 20px; width: 100%; max-width: 100%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
-  </div>
-
-  <!-- ── Dev Quote Card (Centered) ── -->
-  <div style="background: #2c2f3a; border: 1px solid #44475a; border-radius: 12px; padding: 20px; width: 100%; max-width: 100%; display: flex; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" style="max-width: 90%; height: auto;" />
-  </div>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
