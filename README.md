@@ -72,34 +72,54 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 <!-- Stats Section -->
 # GitHub Stats
 
+<h1 align="center"> GitHub Stats:</h1>
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" />
-  
-  <!-- Languages & Quote side by side -->
+
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" 
+    alt="GitHub Stats" 
+    style="max-width: 100%; height: auto;"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    style="max-width: 100%; height: auto;"
+  />
+
+  <!-- Side-by-side: Top Languages & Dev Quote -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+      alt="Top Languages" 
+      style="max-width: 100%; height: auto;"
+    />
     
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+      alt="Dev Quote" 
+      style="max-width: 100%; height: auto;"
+    />
   </div>
 
+  <!-- Divider -->
   <hr style="width: 80%; margin: 24px 0;" />
 
   <!-- Visitor Count -->
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0" />
+    <img 
+      src="https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0" 
+      alt="Visitor Counter"
+      style="max-width: 100%; height: auto;"
+    />
   </a>
 </div>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+<!-- Proudly created with GPRM -->
+<p align="center" style="font-size: small;">Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></p>
 
 ###
 
