@@ -66,32 +66,42 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
-# 📊 GitHub Stats:
+
 <!-- Stats Section -->
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+  <!-- First Box: Zahid Dev GitHub Stats -->
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 100%;" />
   </div>
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=radical&hide_border=false" style="width: 100%;" />
-  </div>
+
+  <!-- Second Box: Most Used Languages -->
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%;" />
   </div>
+
+  <!-- Third Box: Streak Stats -->
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=radical&hide_border=false" style="width: 100%;" />
+  </div>
+
+  <!-- Fourth Box: Contributor Stats -->
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=UnrealZahid101894&limit=5&theme=radical&combine_all_yearly_contributions=true" style="width: 100%;" />
   </div>
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%;" />
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
