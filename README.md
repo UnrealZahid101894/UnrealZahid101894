@@ -85,3 +85,7 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 
 ###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-compact)
+
