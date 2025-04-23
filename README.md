@@ -73,22 +73,26 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 # GitHub Stats
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" />
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <!-- Languages & Quote side by side -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </div>
 
-  <h3 style="margin-top: 24px;">Random Dev Quote</h3>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
   <hr style="width: 80%; margin: 24px 0;" />
-  
+
+  <!-- Visitor Count -->
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0" />
   </a>
 </div>
+
 
 
 
