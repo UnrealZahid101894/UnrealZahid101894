@@ -81,14 +81,24 @@ Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the we
 <!-- Stats Section -->
 
 
-## GitHub Stats:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
+
+## Random Dev Quote
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
