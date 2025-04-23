@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hey there! I'm a self-taught full-stack developer who writes code like a chef experiments with recipes — sometimes it’s spicy, sometimes it crashes the kitchen 😅👨‍💻<br><br>🚀 Currently freelancing, learning, and building random ideas that might break the internet (or just my dev environment).  <br>💡 Big fan of clean code, clever UI, and the occasional dark-mode-only design.  <br>🛠 Tech stack of choice? JavaScript, React, Node, and whatever else Stack Overflow tells me to use.  <br>📚 Always learning, forever debugging.  <br>😎 Life goal: build cool stuff, help people, and make the internet a little more awesome.<br><br>P.S. Still googling “how to center a div” — some traditions never die.
+# 💫 About Me
+
+Hey there! I'm **UnrealZahid**, a full-stack developer on a quest to make the web a cooler place, one line of code at a time.
+
+- 💻 Powered by **Fedora + Hyperland** (because who needs sleep anyway?)
+- 🚀 Freelancing my way through life and turning caffeine into code  
+- 🧠 I build stuff with **React**, **Node.js**, and **a healthy dose of sarcasm**
+- 🌱 Learning new things every day (mostly new ways to break stuff and fix it)
+- 🤖 Open-source enthusiast who still hasn't mastered the art of not procrastinating
+
+> _"Code is like pizza—if it's not good, it's still pretty good."_
 
 
 
@@ -70,57 +79,15 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 
 <!-- Stats Section -->
-# GitHub Stats
 
-<h1 align="center"> GitHub Stats:</h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-  <!-- Main GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" 
-    alt="GitHub Stats" 
-    style="max-width: 100%; height: auto;"
-  />
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" 
-    alt="GitHub Streak Stats" 
-    style="max-width: 100%; height: auto;"
-  />
-
-  <!-- Side-by-side: Top Languages & Dev Quote -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-      alt="Top Languages" 
-      style="max-width: 100%; height: auto;"
-    />
-    
-    <img 
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-      alt="Dev Quote" 
-      style="max-width: 100%; height: auto;"
-    />
-  </div>
-
-  <!-- Divider -->
-  <hr style="width: 80%; margin: 24px 0;" />
-
-  <!-- Visitor Count -->
-  <a href="https://visitcount.itsvg.in">
-    <img 
-      src="https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0" 
-      alt="Visitor Counter"
-      style="max-width: 100%; height: auto;"
-    />
-  </a>
-</div>
-
-<!-- Proudly created with GPRM -->
-<p align="center" style="font-size: small;">Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></p>
-
-###
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
