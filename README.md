@@ -67,15 +67,31 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Stats Section -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="width: 100%;" />
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=dark&hide_border=false" style="width: 100%;" />
+  </div>
+  <div style="flex: 1; min-width: 300px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%;" />
+  </div>
+</div>
 
+<!-- Quote Section -->
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div style="text-align: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="width: 100%;" />
+</div>
 
+<!-- Top Repo Section -->
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UnrealZahid101894&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="text-align: center;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=UnrealZahid101894&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%;" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UnrealZahid101894&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -85,7 +101,5 @@ Hey there! I'm a self-taught full-stack developer who writes code like a chef ex
 
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-compact)
+
 
