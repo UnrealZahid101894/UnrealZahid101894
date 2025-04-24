@@ -5,8 +5,10 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=87CEEB&center=true&vCenter=true&width=460&lines=Hey+there,+Curious+Coder!;Welcome+to+my+world;CSE+Student;Tech+Enthusiast;Breaking+stuff+a+lot;But+Building+Unreal+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=460&lines=Welcome+to+my+code+lab!;Enter+at+your+own+risk...;Warning:+I+may+break+stuff;Hacking+the+system+since+day+one;Just+another+developer+trying+to+survive;I+promise+my+code+works...+eventually" alt="Typing SVG" />
 </h1>
+
+
 
 <p align="center">
   {..🎓 CSE Student @ East West University.. }
