@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=87CEEB&center=true&vCenter=true&width=460&lines=Hey+there,+Curious+Coder!;Welcome+to+my+world;CSE+Student;Tech+Enthusiast;Breaking+stuff+a+lot;But+Building+Unreal+things" alt="Typing SVG" />
 </h1>
@@ -68,6 +70,6 @@ I'm **UnrealZahid**, a full-stack developer(Currently unemployed) on a quest to 
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
