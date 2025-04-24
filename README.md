@@ -15,9 +15,7 @@
 </p>
 
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=false&vCenter=true&width=460&lines=About+Me" alt="Typing SVG" />
-</h2>
+## About me ?
 
 
 I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make the web a cooler place, one line of code at a time.
