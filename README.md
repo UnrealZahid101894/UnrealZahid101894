@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=460&lines=Welcome+to+my+code+lab!;Enter+at+your+own+risk...;Warning:+I+may+break+stuff;Hacking+the+system+since+day+one;Just+another+developer+trying+to+survive;I+promise+my+code+works...+eventually" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=460&lines=Welcome+to+my+code+lab!;Enter+at+your+own+risk...;Warning:+I+may+break+stuff" alt="Typing SVG" />
 </h1>
 
 
@@ -15,7 +15,10 @@
 </p>
 
 
-## About Me? 
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=false&vCenter=true&width=460&lines=About+Me" alt="Typing SVG" />
+</h2>
+
 
 I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make the web a cooler place, one line of code at a time.
 
