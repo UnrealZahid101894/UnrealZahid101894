@@ -47,6 +47,7 @@ I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make
 
 ## Socials:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CGz7sYJU6/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/unreal_zahid?igsh=OWZ4d2YxbWtreWxh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidul-islam-672461333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30344386/jahidul-islam)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidulislam01018940@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Unreal_Zahid?t=9HQGlAPBUgetuTy32_4aSA&s=09)
 
 
@@ -66,7 +67,7 @@ I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
