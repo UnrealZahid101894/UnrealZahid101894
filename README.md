@@ -2,9 +2,11 @@
 
 
 ### ╰┈➤ Me...? ツ
+
 ```js
 
- * Represents me.
+ * Represents me
+
  * @constructor
  * @param {string} location > - Bangladesh.
  * @param {string} languages > - Bengali, English.
@@ -16,7 +18,7 @@
  * @param {string} approachable > - Yes — always open to collab and learn together.
  * @param {string} strength > - Curiosity & Consistency.
  * @param {string} weakness > - Perfectionism at times.
- *
+ 
  * @throws {BugFixingMode} When unexpected errors appear.
- *
+ 
  * @returns {Object} Jahidul.
