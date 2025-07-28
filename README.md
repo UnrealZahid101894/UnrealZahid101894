@@ -1,75 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:2E8B57&height=120&section=header" alt="header image" style="width: 100%; max-width: 100%;">
-</div>
+---
+　　       ／"´⌒｀ヽ、
+　　　　　>,, イ,ヶ::;＼
+　　　 （ｗｗｗ,,,::::::ヽ、
+　　　　　　ゞ μ ﾉ ;;; ;::ヽ、
+　　　　　WWWW};ｗ〆;;;;:::::;ヽ､Mw,
+　　　　　　 ~~{ミ彡;;;; /;;; . Mｗ,
+　　　　　　  　}ミ彡;:/::;;檎 .;;:::７
+　　　　　　　 ﾉ#!##（::;;璽;;≠;;;; :　}ﾒwゝ∧_
+　　　　　　　{##!##,;;::;螺檎}};;  ;(´
+ｬ‐(,ｊ{ﾞｊ､,､　{##!##※;護爾{{;;;;  : ..ﾒ;;}／~(´
+　やλ^/　 {##!!##;;:痔羅碁..... " ;;::] {Ｍ∧/＾´
+　 ~ヽ＾´;,、　ﾍ###等醐璽裸;;;;;,,, ;.>こ､∧／/
+　　　ﾍ ;;:::￣,／＾へ､._, -;;;´￣;;;::,,,;::;;;:{~~~~.＞そ
+　　　　＼;;;;;;;ﾚ〈/メ､＿;;;;::::;;;;;::::,,;;;;;;}／~,へ〈
+　　　　　　　　/::;;;;;:::;::檎璽羅冫;;:ＷＶ⌒
+　　　　　　　　{::;;;;;;::/檎璽羅護; ;;;;:,,:::: : 〈し､_                      
+　　　　　　　　 {護璽 ／;;;::::::;;;;;;;;;;;::｀:ヽ}＞そ
+　　　　　　　　　〉螺:::;/:　;;;;;:::.;:.:;;;;:::::　｝Ｗ´                   
+　　　　　　　　/{醐璽{:;　   ;;;:::;;;;;: ;;:}:}､wwww                        Zahidul Islam......?     
+　　　　　　　 { ;{爾等{:;　　  ;:;;;:::;;;;;;:::::;:: {[　　　　　　　　　        { SUNLESS }　　　　　　　　　　　　　　　　　  
+　　　　　　　{ ;;;;ﾍ檎璽{;:　　 ::;;;;;;;;::::::;ﾉ::; 檎}檎 　　　　　　　　　　　　　　                                       Ｗ´
+　　　　　　　} ;;;::::護璽;;; ,  ;;;;;::;;;;;;乃護;;檎}檎檎}檎w   　　　　　　　                                           璽Ｗ´
+　　　　　　　ゞ::;;;;;:::::螺護}   ;; ;;;;; ;; :檎璽;檎檎}檎 v檎                                                  璽檎璽  }
+　　　　　　　　＼檎檎璽螺璽螺檎璽螺檎璽螺檎璽螺檎璽螺檎}螺檎璽螺檎璽螺檎}檎                                     璽螺檎檎璽  
+　　　　　　　　　 ゞ檎璽檎璽螺璽螺檎璽螺檎璽璽螺檎璽螺檎璽螺}､璽檎璽螺檎璽螺檎璽璽                       檎璽螺檎璽螺    
+　　　　　　　　　　ヾ!檎璽螺檎璽螺檎璽螺檎璽螺檎璽螺檎璽螺檎璽螺檎螺}檎璽螺檎璽螺檎璽螺檎檎璽螺檎璽檎璽璽檎璽螺檎
+　　　　　　　　　　　ゞ檎璽螺檎璽螺螺檎璽螺檎璽檎璽璽         檎璽螺檎璽螺檎璽璽}´檎璽螺檎璽螺檎璽螺檎璽螺檎        
+　　　　　　　　  <<螺檎璽螺檎   檎璽璽璽檎璽螺檎                 檎璽螺檎璽螺檎璽璽}´檎璽螺檎璽
+              {(,)ﾉ(,))ﾉ(,);;      璽檎璽螺檎璽
+　　　　　　　　　　　　　　        {(,)ﾉ(,))ﾉ(,);;ノ
 
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=460&lines=Welcome+to+my+code+lab!;Enter+at+your+own+risk...;Warning:+I+may+break+stuff" alt="Typing SVG" />
-</h1>
-
-
-
-<p align="center">
-  {..🎓 CSE Student @ East West University.. }
-</p>
-
-
-## About me ?
-
-
-I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make the web a cooler place, one line of code at a time.
-
-
-> _"Code is like your Ex —Slowly drains your life, but you still like it anyways."_
-
-
-
-
-
-###
-
-<div style="text-align: center;">
-  <img 
-    src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif" 
-    alt="Responsive GIF" 
-    style="max-width: 100%; height: auto;"
-  />
-</div>
-
-
-###
-
-
-
-## Skills:-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,notion,unreal,arch,bash,git,github,neovim,vscode,vscodium,powershell,figma" />
-  </a>
-</p>
-
-
-<!-- Stats Section -->
-
-
-## Stats:-
-
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealZahid101894&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-
-</div>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:2E8B57&height=120&section=footer" alt="footer image" style="width: 100%; max-width: 100%;">
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+### ╰┈➤ Me...? ツ
+```js
+/**
+ * Represents me.
+ *
+ * @constructor
+ * @param {string} location > - Bangladesh.
+ * @param {string} languages > - Bengali, English.
+ * @param {string} role > - Computer Science Student.
+ * @param {string} specialization > - AI-enhanced Web Development & Automation.
+ * @param {string} interests > - AI, Web Dev, Freelancing, Open Source.
+ * @param {string} hobbies > - Building projects, learning tech, exploring ideas.
+ * @param {string} education > - Bachelor's in Computer Science Engineering.
+ * @param {string} approachable > - Yes — always open to collab and learn together.
+ * @param {string} strength > - Curiosity & Consistency.
+ * @param {string} weakness > - Perfectionism at times.
+ *
+ * @throws {BugFixingMode} When unexpected errors appear.
+ *
+ * @returns {Object} Jahidul.
+ */
