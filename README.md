@@ -3,9 +3,8 @@
 
 ### ╰┈➤ Me...? ツ
 ```js
-/**
+
  * Represents me.
- *
  * @constructor
  * @param {string} location > - Bangladesh.
  * @param {string} languages > - Bengali, English.
@@ -21,4 +20,3 @@
  * @throws {BugFixingMode} When unexpected errors appear.
  *
  * @returns {Object} Jahidul.
- */
