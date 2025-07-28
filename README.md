@@ -20,11 +20,6 @@
 
 I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make the web a cooler place, one line of code at a time.
 
-- 💻 Powered by **Arch + Hyperland** (because who needs sleep anyway?)
-- 🚀 Freelancing my way through life and turning caffeine into code  
-- 🧠 I build stuff with **React**, **Node.js**, and **a healthy dose of sarcasm**
-- 🌱 Learning new things every day (mostly new ways to break stuff and fix it)
-- 🤖 Open-source enthusiast who still hasn't mastered the art of not procrastinating
 
 > _"Code is like your Ex —Slowly drains your life, but you still like it anyways."_
 
