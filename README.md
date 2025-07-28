@@ -70,13 +70,7 @@ I'm **Zahid**, a full-stack developer( Currently unemployed ) on a quest to make
 
 </div>
 
-## Random Dev Quote:-
 
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:2E8B57&height=120&section=footer" alt="footer image" style="width: 100%; max-width: 100%;">
